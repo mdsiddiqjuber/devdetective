@@ -1,11 +1,6 @@
 <div align="center">
 
-# GitHub Actions Failure Analysis
-
-[![GitHub Marketplace](https://img.shields.io/badge/Marketplace-Failure%20Analysis-blue.svg?colorA=24292e&colorB=0366d6&style=flat&logo=githubactions&logoColor=white)](https://github.com/marketplace/actions/github-actions-failure-analysis)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/calebevans/gha-failure-analysis?logo=github)](https://github.com/calebevans/gha-failure-analysis/releases)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=calebevans_gha-failure-analysis&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=calebevans_gha-failure-analysis)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=calebevans_gha-failure-analysis&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=calebevans_gha-failure-analysis)
+# DevDetective
 
 </div>
 
